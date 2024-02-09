@@ -3,4 +3,4 @@
 - main file index.html 
 - dockerfile for create the docker img
 
-![site](/site.jpg)
+![site](/site.png)
