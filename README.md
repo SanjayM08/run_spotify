@@ -1,6 +1,6 @@
 # SPOTIFY WEBSITE
 
-- main file index.html 
-- dockerfile for create the docker img
+- Main file index.html 
+- Dockerfile for create the docker img
 
 ![site](/site.png)
